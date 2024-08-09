@@ -1,0 +1,48 @@
+table,
+tr,
+td {
+    border: solid 1px black;
+    border-collapse: collapse;
+
+}
+
+#largColuna {
+    width: 120px;
+    background-color: rgb(211, 34, 143);
+    
+    text-align: center;
+}
+
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#cidades{
+    background-color: rgb(211, 34, 143);
+ text-align: center;
+}
+#titulo{
+    background-color: rgb(211, 34, 143);
+    ext-align: center;
+}
+#riscado{ 
+    background-color: black;
+}
+#fundo{
+    background-color: rgb(198, 153, 240);
+}
+#FUNDO{
+    background-color:rgb(243, 149, 149);
+}
+#fundO{ 
+    background-color: rgb(255, 147, 219);
+}
+#Fundo{
+    background-color: rgb(165, 249, 255);
+}
+#fUndo{
+    background-color: rgb(85, 100, 235);
+}
+#fuNdo{
+    background-color: rgb(112, 238, 118);
+}
