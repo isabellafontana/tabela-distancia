@@ -24,20 +24,33 @@ Esse projeto consiste na construção de uma tabela que contempla capitais brasi
 
 #### tabela
 
-* table -
-* tr -
+* table -  representa dados tabulares 
+* tr - linhas da tabela
 
 Veja uma imagem da parte do código, onde é possível indentificar uso dos elementos mencionados acima:
 
-![](elemetos.png)
+![](img/elementos.png)
 
 * td - significa *dados da tabela
 
-IMAGEM DO TD AQUI
+![](img/td.png)
 
 A seguir você vera a imagem do resultado final do projeto
 
-![Resultado final do projeto](resultado-final.png)
+![Resultado final do projeto](img/resultado-final.png)
+
+### Estilização
+
+O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo chamado main.css. Nesse arquivo, constam configurações de estilo apresentadas a seguir:
+
+* Estilo de cores - A cor de fundo utilizada no projeyo foi definida como segue:
+
+``` 
+cidades {
+     background-color: rgb(167, 48, 167);
+    text-align: center;
+}
+```
 
 
 ## Tecnologias
@@ -60,7 +73,6 @@ O projeto foi desenvolvido por:
 * Vitor Eduardo
 * Caio Lovison
 * Miguel Gonçalves
-
 
 
 
